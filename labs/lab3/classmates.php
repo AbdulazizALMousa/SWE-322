@@ -16,6 +16,7 @@ color:green;
 </head>
 <body>
 <?php
+<!--Abdulaziz AL-Mousa -->
 $classmates = array("faisal","Abdulaziz","Fahad");
 
 echo "<h3> Course SWE 322 classmates are: </h3>";
